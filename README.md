@@ -1,5 +1,5 @@
-# 💫 About Me:
-Syed Muhammad Ammar<br>Software Engineer | React | Node.js | Java | MongoDB<br><br>💪 Expertise:<br>- MERN Stack | Java | Web Development <br><br>🎓 Education:<br>- B.Sc. in Software Engineering, FAST NUCES, Islamabad (2020-2024)<br><br>👨‍💻 Experience:<br>- QUEST Web Intern<br>- AIM Research Assistant <br>- Teacher Assistant, FAST NUCES<br> 
+# 💫Syed Muhammad Ammar
+<br>Software Engineer | React | Node.js | Java | MongoDB<br><br>💪 Expertise:<br>- MERN Stack | Java | Web Development <br><br>🎓 Education:<br>- B.Sc. in Software Engineering, FAST NUCES, Islamabad (2020-2024)<br><br>👨‍💻 Experience:<br>- QUEST Web Intern<br>- AIM Research Assistant <br>- Teacher Assistant, FAST NUCES<br> 
 
 
 # 💻 Tech Stack:
