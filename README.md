@@ -1,5 +1,5 @@
 # 💫Syed Muhammad Ammar
-<br>Software Engineer<br><br>💪 Expertise:<br>- MERN Stack | Java | Web Development <br><br>🎓 Education:<br>- B.Sc. in Software Engineering, FAST NUCES, Islamabad (2020-2024)<br><br>👨‍💻 Experience:<br>- QUEST Web Intern<br>- AIM Research Assistant <br>- Teacher Assistant, FAST NUCES<br> 
+<br>Software Engineer<br><br>💪 Expertise:<br>- MERN Stack | Java | Web Development <br><br>🎓 Education:<br>- B.Sc. in Software Engineering, FAST NUCES, Islamabad <br><br>👨‍💻 Experience:<br>- QUEST Web Intern<br>- AIM Research Assistant <br>- Teacher Assistant, FAST NUCES<br> 
 
 
 # 💻 Tech Stack:
