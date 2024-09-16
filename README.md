@@ -1,5 +1,5 @@
 # 💫Syed Muhammad Ammar
-<br>Software Engineer<br>Backend Engineer at Createex<br><br>💪 Expertise:<br>- Nodejs| MERN Stack | Java | Web Development <br><br>🎓 Education:<br>- B.Sc. in Software Engineering, FAST NUCES, Islamabad  (2020-2024) <br><br>👨‍💻 Experience:<br><br>- QUEST Web Intern<br>- AIM Research Assistant <br>- Teacher Assistant, FAST NUCES<br> 
+<br>Software Engineer<br>Backend Engineer at Createex<br><br>💪 Expertise:<br>- Nodejs| MERN Stack | Java | Web Development <br><br>🎓 Education:<br>- B.Sc. in Software Engineering, FAST NUCES, Islamabad<br><br>👨‍💻 Experience:<br><br><br> Dubizzle Labs - Software Enginner <br><br>- Tossdown - Backend Engineer<br>- QUEST Web Intern<br>- AIM Research Assistant <br>- Teacher Assistant, FAST NUCES<br> 
 
 
 # 💻 Tech Stack:
